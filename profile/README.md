@@ -1,4 +1,4 @@
-# ITALIC Research Group
+# ITALICUS Research Group
 ### Department of Languages and Computer Systems
 ### University of Seville
 ---
