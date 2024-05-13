@@ -8,7 +8,7 @@ The ITÁLICA research group focuses on Natural Language Processing, particularly
 #### Members
 * Vicente Carrillo: https://prisma.us.es/investigador/713
 * Fermín L. Cruz: https://scholar.google.es/citations?user=lqnUo64AAAAJ
-* Víctor J. Díaz Madrigal: https://prisma.us.es/investigador/1061
+* Víctor J. Díaz: https://prisma.us.es/investigador/1061
 * Fernando Enríquez: https://scholar.google.es/citations?user=Gpp7P_sAAAAJ
 * F. Javier Ortega: https://scholar.google.es/citations?user=o97iA8cAAAAJ
 * José A. Troyano: https://scholar.google.es/citations?user=ReikaNQAAAAJ
